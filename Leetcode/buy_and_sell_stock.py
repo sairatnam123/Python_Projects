@@ -40,5 +40,5 @@ for i in range(length_of_list):
     list1.append(int(input("enter a price per day")))
 prices= array.array('i',list1)
 maximum_profit=maxProfit(prices)
-print("maximum profit for given prices ",maximum_profit)
+print("maximum profit for given prices",maximum_profit)
 
