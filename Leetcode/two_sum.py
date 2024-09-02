@@ -19,7 +19,7 @@ return_list=two_sum(list1,length_of_list,target)
 if return_list is not None:
     print("Two sum value for given list is ",list1,"having target value is",return_list)
 else:
-    print("Two sum value for given list is ",list1,"not having target value is ",return_list)
+    print("Two sum value for given list is ",list1,"not having target value is",return_list)
 
 
 
